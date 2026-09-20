@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Is an LLM an Infinite Monkey Theorem ???"
-date:  2026-09-19 21:20:05 +0530
+date:  2026-09-20 21:20:05 +0530
 categories: Blog
 ---
-
+## This needs many changes not worth a read still a draft
 
 
 ![Image](/images/infmonkey.jpg)

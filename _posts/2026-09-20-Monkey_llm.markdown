@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Is an LLM an infinite Monkey Theorem"
-date:   2026-04-02 21:20:05 +0530
+title:  "Is an LLM an Infinite Monkey Theorem ???"
+date:  2026-09-19 21:20:05 +0530
 categories: Blog
 ---
 

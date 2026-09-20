@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Shriram Website
+title: Logbook
 email: shriramgolla@gmail.com
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,8 +28,7 @@ github_username:  plmaras
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

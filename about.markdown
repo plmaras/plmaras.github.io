@@ -13,6 +13,9 @@ I am Shriram a 3rd year UG student at Department of AI in IIT-Hyderabad. I am ma
 
 <br>
 
+<!--
 <!--Favourite Quotes-->
 <!---->
 <!--> Boys, you must strive to find your own voice. Because the longer you wait to begin, the less likely you are to find it at all Thoreau said, 'Most men lead lives of quit desperation Don't be resgined to that. Break out!'    - *Dead Poets Society* -->
+
+-->
